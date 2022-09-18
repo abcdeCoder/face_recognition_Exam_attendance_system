@@ -1,1 +1,1 @@
-# face_recognition_attendance_system
+# face_recognition_exam_attendance_system
